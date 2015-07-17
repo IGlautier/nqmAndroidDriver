@@ -1,0 +1,14 @@
+/*
+ * This is a sample configuration object for Android-Driver - actual config is passed to the constructor.
+ */
+
+{
+  "type": "Android-Driver",
+  "port": 8060,
+  "sensors": [
+    {
+      "deviceId": "013777002522124",
+      "feedId": "AND001"
+    }
+  ]
+}
